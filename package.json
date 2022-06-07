@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/awslabs/opsworks-windows-example-nodejs"
+    "url": "https://github.com/johancar/opsworks-windows-demo-nodejs"
   },
   "license": "Apache 2.0",
   "description": "A sample Node.JS application for AWS OpsWorks"
